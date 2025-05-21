@@ -118,6 +118,7 @@ else:
         "Lethalgn2009",
         "Pinkleafisthebest145",
         "Bldeckm",
+        "yoyohanih",
     ]
     # Save the default list to member.json
     with open(MEMBER_JSON_PATH, "w") as f:
